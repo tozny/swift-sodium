@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.social_media_url = "https://twitter.com/Tozny"
   s.authors = { "Frank Denis" => "" }
   s.source = { git: "https://github.com/Tozny/swift-sodium.git",
-               tag: "0.9.1" }
+               tag: "0.10.0" }
 
   s.ios.deployment_target = "9.0"
   s.osx.deployment_target = "10.11"
